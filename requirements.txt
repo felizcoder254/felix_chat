@@ -1,3 +1,8 @@
 Flask
 requests
 gunicorn
+fastapi
+uvicorn[standard]
+scikit-learn
+pydantic
+
